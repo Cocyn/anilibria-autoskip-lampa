@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         AniLibria AutoSkip for Lampa (clean)
-// @version      1.0.0
-// @description  Автоматический пропуск опенингов и эндингов в Lampa
-// @author       OpenAI + community
-// @match        *://*/*
-// @grant        none
-// ==/UserScript==
-
 (function() {
     'use strict';
 
